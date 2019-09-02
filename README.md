@@ -1,4 +1,4 @@
-# Iranian-Music-Fonts
+# Iranian Music Fonts
 <p dir='rtl' align='right'>
 فونت موسیقی ایرانی
 </p>
